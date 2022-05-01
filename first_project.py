@@ -30,3 +30,4 @@ div_func = get_math_function("/")
 
 print(add_func(10, 10))
 print(sub_func(24, 17))
+print("Dobry den, ja jsem Haruto!")
