@@ -3,7 +3,8 @@ you crated this file to practice git
 what sports do u like?
 
 yes you're haruto mori
-this file is edited in the another branch
+this file is edited in the FASTFORWARD branch
 baseball
 
 I'm in Prague now!
+yahooooooooo
